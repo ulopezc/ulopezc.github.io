@@ -26,16 +26,17 @@ During this proyect, my collegues and I made a MySQL server to gather the inform
 <div class="caption">
     Our Dimensional model
 </div>
+    
+    After gathering all the information, we sent our tables to Tableu to analyze and we created several Dashboards with important data that the Museum would like to know in order to be more appealing to the public
+    
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Tableu4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Our Dashboard.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+We finished this proyect by doing five dashboards with valuable information in which some of our graphics showed Visitants by gender, Scholarity of the visitants, type of ticket, duration of the visits and many more
 {% endraw %}
