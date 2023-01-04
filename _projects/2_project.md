@@ -10,7 +10,7 @@ category: work
 During this proyect, my collegues and I made a MySQL server to gather the information that our college, Tecnologico de Monterrey, sended to us to analyze. First we analyzed the data by choosing who would be our primary keys and variables, then we organized the data by using queries in which we also created our tables in the system. Once we had all the information gathered and organized by type, we sent this information to our Tableu 
 
     ---
-    We spent long time on the analysis of the data and documentating. We started by stating:
+    We spent most of our time on the analysis of the data and documentating. We started by stating:
     1- What is the problem?
     2- Metadata
     3- Analysis questions
@@ -20,17 +20,10 @@ During this proyect, my collegues and I made a MySQL server to gather the inform
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+        {% include figure.html path="assets/img/Dimension.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Our Dimensional model
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
