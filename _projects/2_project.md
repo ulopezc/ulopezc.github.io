@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-During this proyect, my collegues and I made a MySQL server to gather the information that our college, Tecnologico de Monterrey, sended to us to analyze. First we analyzed the data by choosing who would be our primary keys and variables, then we organized the data by using queries in which we also created our tables in the system. Once we had all the information gathered and organized by type, we sent this information to our Tableu 
+During this project, my collegues and I made a MySQL server to gather the information that our college, Tecnologico de Monterrey, sended to us to analyze. First we analyzed the data by choosing who would be our primary keys and variables, then we organized the data by using queries in which we also created our tables in the system. Once we had all the information gathered and organized by type, we sent this information to our Tableu 
 
     ---
     We spent most of our time on the analysis of the data and documentating. We started by stating:
