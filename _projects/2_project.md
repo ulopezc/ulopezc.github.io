@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analisis de informacion sobre Museos
-description: Se ordeno los datos mediante queries y se crearon tablas para analisar en Tableu: assets/img/3.jpg
+description: Se utilizo MySQL y Tableu : assets/img/3.jpg
 importance: 2
 category: work
 ---
