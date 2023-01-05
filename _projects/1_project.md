@@ -2,20 +2,18 @@
 layout: page
 title: project 1
 description: CEMEX GO Track app analysis
-img: assets/img/12.jpg
+img: assets/img/cemexgo.jpg
 importance: 1
 category: work
 ---
 
 In an internship with CEMEX, my collegues and I worked with our mentor to get our project done. Our project consisted in getting in real time information from the Cemex go track app into our MySQL server to analyze it with the help of the Power BI tool. First we did our
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
     ---
     layout: page
     title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    description: CEMEX GO Track app analysis
+    img: /assets/img/cemexgo.jpg
     ---
 
 <div class="row">
