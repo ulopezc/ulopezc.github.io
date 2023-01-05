@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: CEMEX GO Track app analysis
+title: CEMEX GO Track app analysis
+description: My Internship with Cemex
 img: assets/img/cemexgo.jpg
 importance: 1
 category: work
@@ -11,8 +11,8 @@ In an internship with CEMEX, my collegues and I worked with our mentor to get ou
 
     ---
     layout: page
-    title: project
-    description: CEMEX GO Track app analysis
+    title: CEMEX GO Track app analysis
+    description: My Internship with Cemex
     img: /assets/img/cemexgo.jpg
     ---
 
