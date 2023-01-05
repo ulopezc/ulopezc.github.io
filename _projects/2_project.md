@@ -35,8 +35,9 @@ During this project, my collegues and I made a MySQL server to gather the inform
     </div>
 </div>
 <div class="caption">
-    Our Dashboard.
+    Our Dashboard
 </div>
 
 We finished this proyect by doing five dashboards with valuable information in which some of our graphics showed Visitants by gender, Scholarity of the visitants, type of ticket, duration of the visits and many more
+    
 {% endraw %}
