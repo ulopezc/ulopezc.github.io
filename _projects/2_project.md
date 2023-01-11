@@ -2,7 +2,7 @@
 layout: page
 title: Museum data analysis
 description: Tableu and MySQL were used on this proyect
-img: assets/img/Tableu3.jpg
+img: assets/img/Tableu3.png
 importance: 2
 category: work
 ---
@@ -20,7 +20,7 @@ During this project, my collegues and I made a MySQL server to gather the inform
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Dimension.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Dimension.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
     
 <div class="caption">
@@ -31,7 +31,7 @@ During this project, my collegues and I made a MySQL server to gather the inform
     
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Tableu4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Tableu4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
