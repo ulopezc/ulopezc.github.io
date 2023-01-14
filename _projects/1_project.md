@@ -11,7 +11,7 @@ In an internship with CEMEX, my collegues and I worked with our mentor to get ou
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/presentacion.jpg" title="Presentacion" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/presentacion.png" title="Presentacion" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
@@ -35,12 +35,12 @@ In an internship with CEMEX, my collegues and I worked with our mentor to get ou
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/video 1.jpg" title="graph1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/video 1.png" title="graph1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/video 2" title="graph2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/video 2.png" title="graph2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
