@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-During this project, my collegues and I made a MySQL server to gather the information that our college, Tecnologico de Monterrey, sended to us to analyze. First we analyzed the data by choosing who would be our primary keys and variables, then we organized the data by using queries in which we also created our tables in the system. Once we had all the information gathered and organized by type, we sent this information to our Tableu 
+During this project, my colleagues and I created a MySQL server to collect and analyze data provided by Tecnologico de Monterrey. We began by carefully selecting primary keys and variables, and organizing the data by utilizing queries to create tables in the system. Once all of the information was gathered and sorted by type, we exported it to Tableau for further analysis.
 
     ---
     We spent most of our time on the analysis of the data and documentating. We started by stating:
@@ -27,7 +27,7 @@ During this project, my collegues and I made a MySQL server to gather the inform
     Our Dimensional model
 </div>
     
-    After gathering all the information, we sent our tables to Tableu to analyze and we created several Dashboards with important data that the Museum would like to know in order to be more appealing to the public
+    After collecting all the necessary data, we exported our tables to Tableau for analysis and created several dashboards to display crucial information that the Museum management would find useful in order to improve their appeal to the public.
     
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,5 +38,4 @@ During this project, my collegues and I made a MySQL server to gather the inform
     Our Dashboard
 </div>
 
-We finished this proyect by doing five dashboards with valuable information in which some of our graphics showed Visitants by gender, Scholarity of the visitants, type of ticket, duration of the visits and many more
-  
+We successfully completed the project by creating five dashboards containing valuable insights, including visualizations of visitor demographics (such as gender and level of education), ticket type, visit duration, and more.
