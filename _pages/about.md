@@ -16,8 +16,8 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mi  full name is Uriel Evaristo Lopez Cantu. My nationalities are Mexican and Spaniard I am skilled team player with strong background in IT environments. I work independently very good as well and I am always ready to go beyond basics assignments to further develop my knowledge and be more prepared in the future. Quick learner with good computer abilities such as DevOps, MySQL, Tableu/PowerBI, C++ and Swift!.
+My full name is Uriel Evaristo Lopez Cantu. I am of Mexican and Spanish nationality. I am a skilled team player with a strong background in IT environments. I am also able to work independently and am always eager to go beyond basic assignments to further develop my knowledge and prepare for the future. I am a quick learner with strong computer abilities, including proficiency in DevOps, MySQL, Tableau/PowerBI, C++, SAP and Swift.
 
-I am interested to achieve a master's degree in Data Analyisis to further develop my knowledge in computer science. I have plenty of hobbies such as fishing, reading, and climb different mountains that are very common and beautiful where I live.
+I am interested in pursuing a master's degree in Data Analysis to further enhance my knowledge in computer science. In my free time, I enjoy hobbies such as fishing, reading and mountain climbing, which are prevalent and beautiful in my area.
 
-This page is dedicated to record all my achievements, projects, news, and curiosities for me and future collaborations. 
+This website is dedicated to documenting my achievements, projects, news, and interests for both my own reference and future collaborations.
