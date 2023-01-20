@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-In an internship with CEMEX, my collegues and I worked with our mentor to get our project done. Our project consisted in getting in real time information from the Cemex go track app into our MySQL server to analyze it with the help of the Power BI tool. First we did our analysis on the problem and talked with our mentor on how CEMEX worked in order to achieve value. Once we had our dimensional mode, analysis questions to solve and organized data by setting our primary keys, indicators and metrics, we then moved on to start our project by organizing the data in MySQL with queries. We also created tables that we thought could be useful for our next step. 
+During my internship with CEMEX, my colleagues and I collaborated with our mentor to successfully complete a project. The project entailed extracting real-time information from the CEMEX Go Track app, and importing it into our Microsoft SQL server for analysis with the Power BI tool. We began by conducting a thorough analysis of the problem, and consulting with our mentor to understand CEMEX's operations and identify areas of value. Once we had established a dimensional model, identified key analysis questions and organized the data by setting primary keys, indicators and metrics, we moved on to implement the project. We organized the data in MySQL using queries, and created additional tables for future use. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,7 +31,7 @@ In an internship with CEMEX, my collegues and I worked with our mentor to get ou
     example of our queries to organize
 </div>
 
- At the end of our project, we connected our MySQL server to PowerBI and started to make graphics in real time with valuable information. Most of our graphs showed areas of opportunity for CEMEX to improve. 
+ Upon completion of our project, we connected our SQL server to PowerBI, allowing us to create real-time visualizations of valuable information. The majority of our graphics highlighted areas where CEMEX could improve its operations.
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
