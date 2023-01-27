@@ -26,15 +26,15 @@
       year: 2022-Current
       description:
         - As an employee of the Institute, I am responsible for coordinating and overseeing the actions related to migration with private agencies, 
-        organizations, and government entities. I establish and maintain liaison mechanisms with various departments in order to effectively achieve 
-        institutional objectives. I utilize tools such as SAP and Excel to aid in these efforts.
+          organizations, and government entities. I establish and maintain liaison mechanisms with various departments in order to effectively achieve 
+          institutional objectives. I utilize tools such as SAP and Excel to aid in these efforts.
 
     - title: 
       institution: CEMEX MEXICO S.A. DE C.V. INTERNSHIP
       year: 2021-2022
       description:
       - Performed data analysis by gatherting APIs in which we used then to organize on SQL Server and then used PowerBI to make infographics to see 
-      why there were errors grouped by second, hour, day and month
+        why there were errors grouped by second, hour, day and month
 
 - title: Honors and Awards
   type: time_table
