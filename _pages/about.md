@@ -9,7 +9,7 @@ profile:
   image: uriel lopez formal.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Telephone number:8180117905  </p>
+    <p>Telephone number: 8180117905  </p>
     <p> Nuevo Leon, Mexico</p>
 
 news: true # includes a list of news items
