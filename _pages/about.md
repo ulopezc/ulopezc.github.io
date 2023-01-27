@@ -12,7 +12,7 @@ profile:
     <p>Telephone number:8180117905  </p>
     <p> Nuevo Leon, Mexico</p>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
