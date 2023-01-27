@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-14 
+date: 2023-01-06 
 inline: true
 ---
 
-Finished my Intership with CEMEX S.A DE C.V.
+Finished the course “Learning Power BI Desktop” by Gini von Courter!
