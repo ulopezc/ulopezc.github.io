@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
+title: Tableau practice
 description: another without an image
-img:
+img: assets/img/TableauDashboard1.pnG
 importance: 3
 category: fun
 ---
