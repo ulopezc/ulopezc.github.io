@@ -2,7 +2,7 @@
 layout: page
 title: Tableau practice
 description: Covid19 Data Visualization
-img: assets/img/TableauDashboard1.png
+img: assets/img/TableauDashboard1cortado.png
 importance: 3
 category: fun
 ---
