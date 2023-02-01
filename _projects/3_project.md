@@ -1,50 +1,30 @@
 ---
 layout: page
 title: Tableau practice
-description: another without an image
+description: Covid19 Data Visualization
 img: assets/img/TableauDashboard1.png
 importance: 3
 category: fun
 ---
 
-I started this project to refresh my Tableau skills, for fun and to play around with the visualizations. 
+I embarked on this project with the intention of refreshing my Tableau skills and indulging in some creative exploration through the use of its visualizations.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project focuses on analyzing and presenting insights on the Covid-19 vaccine distribution globally. To start, I created three key performance indicators (KPIs) to measure the progress of the vaccine distribution: partially vaccinated individuals, fully vaccinated individuals, and the percentage of unvaccinated individuals.
+Additionally, I created a bar graph that showcases, in descending order, the countries with the highest number of vaccinated individuals, both partially and fully. This provides a clear visual of the leading countries in terms of vaccine distribution.
+Furthermore, I utilized a map to display the level of vaccine distribution across countries, with a darker shade indicating higher levels of full vaccination.
+Lastly, I plotted a trend line graph of vaccinated individuals per Gross Domestic Product (GDP) to present a comprehensive analysis of the relationship between vaccine distribution and economic prosperity."
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/TableauDashboard1.png" title="Dashboard1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    The dashboard with my three KPI and 3 graphs to showcase information about people fully, partly and not vaccinated
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+This Dashboard represents the final outcome of the project, where you can manipulate and customize the view by selecting different continents and date ranges through the use of filters.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
