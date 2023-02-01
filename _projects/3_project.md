@@ -2,7 +2,7 @@
 layout: page
 title: Tableau practice
 description: another without an image
-img: assets/img/TableauDashboard1.pnG
+img: assets/img/TableauDashboard1.png
 importance: 3
 category: fun
 ---
