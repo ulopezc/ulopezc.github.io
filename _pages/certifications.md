@@ -2,10 +2,10 @@
 layout: page
 title: certifications
 permalink: /Certifications/
-description: My projects.
+description: My Certifications.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [ETQ & Programming, Others]
 horizontal: false
 ---
 
