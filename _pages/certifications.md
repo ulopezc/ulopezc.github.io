@@ -1,5 +1,5 @@
 ---
-layout: cf
+layout: about
 permalink: /cf/
 title: Certifications
 nav: true
