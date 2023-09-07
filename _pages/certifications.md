@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: certifications
+permalink: /Certifications/
 description: My projects.
 nav: true
 nav_order: 2
