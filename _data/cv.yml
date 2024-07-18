@@ -7,6 +7,7 @@
       value: 6th of April of 1999
     - name: Languages
       value: Spanish (native), English (advanced)
+    - name: CV 
       cv_pdf: Uriel_Lopez_CV.pdf
 
 - title: Education
