@@ -8,7 +8,7 @@
     - name: Languages
       value: Spanish (native), English (advanced)
     - name: CV 
-      cv_pdf: Uriel_Lopez_CV.pdf
+      cv_pdf: "<a href='/path/to/Uriel_Lopez_CV.pdf'
 
 - title: Education
   type: time_table
