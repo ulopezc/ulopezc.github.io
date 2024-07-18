@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects hola chio
 permalink: /projects/
 description: My projects.
 nav: true
