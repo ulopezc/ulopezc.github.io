@@ -8,7 +8,7 @@
     - name: Languages
       value: Spanish (native), English (advanced)
     - name: CV 
-      value: Uriel_Lopez_CV.pdf
+      value: <a href="https://ulopezc.github.io/Uriel_Lopez_CV.pdf" target="_blank">Download CV</a>
 
 - title: Education
   type: time_table
