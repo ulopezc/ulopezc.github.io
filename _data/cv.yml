@@ -21,6 +21,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer
+      institution: AFL
+      year: 2022-Current
+      description:
+      - I am proficient in Python, Java, and SQL, and am capable of meeting the company's requirements in these programming languages.
+        
     - title: Enlace Operativo
       institution: SERVICIOS DE AGUA Y DRENAJE DE NUEVO LEON, MEXICO
       year: 2022-Current
